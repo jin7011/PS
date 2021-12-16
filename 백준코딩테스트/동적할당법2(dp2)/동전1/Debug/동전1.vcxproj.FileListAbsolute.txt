@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법2(dp2)\동전1\Debug\동전1.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법2(dp2)\동전1\Debug\동전1.pdb

@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\가장 긴 증가하는 수열2\Debug\가장 긴 증가하는 수열2.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\가장 긴 증가하는 수열2\Debug\가장 긴 증가하는 수열2.pdb

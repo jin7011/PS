@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\이동하기(사탕)\Debug\이동하기(사탕).exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\이동하기(사탕)\Debug\이동하기(사탕).pdb

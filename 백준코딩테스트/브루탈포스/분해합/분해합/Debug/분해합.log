@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\브루탈포스\분해합\분해합\소스.cpp(28,6): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  분해합.vcxproj -> C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\브루탈포스\분해합\Debug\분해합.exe

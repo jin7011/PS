@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\브루탈포스\수빈리모컨\Debug\수빈리모컨.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\브루탈포스\수빈리모컨\Debug\수빈리모컨.pdb

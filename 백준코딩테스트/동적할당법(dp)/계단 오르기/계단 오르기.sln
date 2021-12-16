@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "계단 오르기", "계단 오르기\계단 오르기.vcxproj", "{E838F8DD-60C1-4C84-ADE0-57473F421821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Debug|x64.ActiveCfg = Debug|x64
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Debug|x64.Build.0 = Debug|x64
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Debug|x86.ActiveCfg = Debug|Win32
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Debug|x86.Build.0 = Debug|Win32
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Release|x64.ActiveCfg = Release|x64
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Release|x64.Build.0 = Release|x64
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Release|x86.ActiveCfg = Release|Win32
+		{E838F8DD-60C1-4C84-ADE0-57473F421821}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8FDEAC-3A67-4345-8844-F9D037A174CB}
+	EndGlobalSection
+EndGlobal

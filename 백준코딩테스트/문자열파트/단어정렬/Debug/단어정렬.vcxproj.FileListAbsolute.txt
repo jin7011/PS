@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\문자열파트\단어정렬\Debug\단어정렬.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\문자열파트\단어정렬\Debug\단어정렬.pdb

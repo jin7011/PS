@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구실\소스.cpp(134,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구실\소스.cpp(134,15): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구실\소스.cpp(206,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구실\소스.cpp(206,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  연구실.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구실\Debug\연구실.exe

@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\입국심사\소스.cpp(34,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  입국심사.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\입국심사\Debug\입국심사.exe

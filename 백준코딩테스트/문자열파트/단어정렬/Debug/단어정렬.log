@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\문자열파트\단어정렬\소스.cpp(33,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  단어정렬.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\문자열파트\단어정렬\Debug\단어정렬.exe

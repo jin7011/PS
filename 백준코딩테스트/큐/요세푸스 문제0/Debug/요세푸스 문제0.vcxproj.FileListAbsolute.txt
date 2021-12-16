@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\요세푸스 문제0\Debug\요세푸스 문제0.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\요세푸스 문제0\Debug\요세푸스 문제0.pdb

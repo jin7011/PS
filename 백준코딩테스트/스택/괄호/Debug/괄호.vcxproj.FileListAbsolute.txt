@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\괄호\Debug\괄호.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\괄호\Debug\괄호.pdb

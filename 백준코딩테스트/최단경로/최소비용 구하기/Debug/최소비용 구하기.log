@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\최소비용 구하기\소스.cpp(20,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\최소비용 구하기\소스.cpp(33,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  최소비용 구하기.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\최소비용 구하기\Debug\최소비용 구하기.exe

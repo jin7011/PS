@@ -1,0 +1,2 @@
+C:\Users\fpdlq\source\repos\종이의 개수\Debug\종이의 개수.exe
+C:\Users\fpdlq\source\repos\종이의 개수\Debug\종이의 개수.pdb

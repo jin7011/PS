@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\큐2\Debug\큐2.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\큐2\Debug\큐2.pdb

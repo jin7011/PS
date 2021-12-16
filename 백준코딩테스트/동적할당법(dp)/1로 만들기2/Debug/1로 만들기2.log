@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(4088,24): warning C4244: '=': 'const _Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법(dp)\1로 만들기2\소스.cpp(71): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::fill<int*,double>(const _FwdIt,const _FwdIt,const _Ty &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _FwdIt=int *,
+              _Ty=double
+          ]
+  1로 만들기2.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법(dp)\1로 만들기2\Debug\1로 만들기2.exe

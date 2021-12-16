@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\AA\source\repos\문자열 글자별반복출력\문자열 글자별반복출력\소스.cpp(14,6): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  문자열 글자별반복출력.vcxproj -> C:\Users\AA\source\repos\문자열 글자별반복출력\Debug\문자열 글자별반복출력.exe

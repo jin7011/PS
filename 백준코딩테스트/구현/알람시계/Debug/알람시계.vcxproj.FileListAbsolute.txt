@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\구현\알람시계\Debug\알람시계.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\구현\알람시계\Debug\알람시계.pdb

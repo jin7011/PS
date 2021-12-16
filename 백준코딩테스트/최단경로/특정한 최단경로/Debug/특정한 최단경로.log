@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\특정한 최단경로\소스.cpp(35,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\특정한 최단경로\소스.cpp(70,6): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+  특정한 최단경로.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\최단경로\특정한 최단경로\Debug\특정한 최단경로.exe

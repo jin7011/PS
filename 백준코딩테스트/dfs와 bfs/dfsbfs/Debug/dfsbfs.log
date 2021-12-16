@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\dfsbfs\소스.cpp(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\dfsbfs\소스.cpp(49,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  dfsbfs.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\dfsbfs\Debug\dfsbfs.exe

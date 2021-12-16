@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\균형잡힌 세상\소스.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\균형잡힌 세상\소스.cpp(48): warning C4715: 'func': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  균형잡힌 세상.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\균형잡힌 세상\Debug\균형잡힌 세상.exe

@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구소3\소스.cpp(16,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구소3\소스.cpp(90,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구소3\소스.cpp(115,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구소3\소스.cpp(146,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  연구소3.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연구소3\Debug\연구소3.exe

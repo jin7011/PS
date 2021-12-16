@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\백트랙킹\차이를 최대로\Debug\차이를 최대로.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\백트랙킹\차이를 최대로\Debug\차이를 최대로.pdb

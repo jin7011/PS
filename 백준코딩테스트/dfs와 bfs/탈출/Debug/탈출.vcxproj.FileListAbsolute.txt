@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\탈출\Debug\탈출.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\탈출\Debug\탈출.pdb

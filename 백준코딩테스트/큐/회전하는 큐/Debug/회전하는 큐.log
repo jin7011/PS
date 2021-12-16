@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\회전하는 큐\소스.cpp(5,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\회전하는 큐\소스.cpp(12,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Data' 왼쪽은 무시됩니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\회전하는 큐\소스.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\회전하는 큐\소스.cpp(91,20): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  회전하는 큐.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\스택\큐\회전하는 큐\Debug\회전하는 큐.exe

@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연결요소의 개수\Debug\연결요소의 개수.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\연결요소의 개수\Debug\연결요소의 개수.pdb

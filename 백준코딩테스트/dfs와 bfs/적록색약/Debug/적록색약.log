@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\적록색약\소스.cpp(33,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\적록색약\소스.cpp(63,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\적록색약\소스.cpp(94,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  적록색약.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\적록색약\Debug\적록색약.exe

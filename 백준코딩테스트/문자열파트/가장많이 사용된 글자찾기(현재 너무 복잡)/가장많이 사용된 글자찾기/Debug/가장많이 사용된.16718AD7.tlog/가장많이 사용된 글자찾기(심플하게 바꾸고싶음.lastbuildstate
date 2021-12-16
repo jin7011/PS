@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\가장많이 사용된 글자찾기(현재 너무 복잡)\|

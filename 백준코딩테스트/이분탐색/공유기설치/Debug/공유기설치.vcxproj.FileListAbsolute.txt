@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\공유기설치\Debug\공유기설치.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\공유기설치\Debug\공유기설치.pdb

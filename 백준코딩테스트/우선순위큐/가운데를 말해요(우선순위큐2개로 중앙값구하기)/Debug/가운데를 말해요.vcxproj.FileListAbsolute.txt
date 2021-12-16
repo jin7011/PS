@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\우선순위큐\가운데를 말해요\Debug\가운데를 말해요.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\우선순위큐\가운데를 말해요\Debug\가운데를 말해요.pdb

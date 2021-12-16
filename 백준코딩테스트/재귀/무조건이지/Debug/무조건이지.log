@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(7,10): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(10,1): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(7,10): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(8,7): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(8,7): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(8,13): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(8,13): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(9,7): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(9,7): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(9,13): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\소스.cpp(9,13): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  무조건이지.vcxproj -> C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\재귀\무조건이지\Debug\무조건이지.exe

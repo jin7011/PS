@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\로봇청소기\Debug\로봇청소기.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\dfs와 bfs\로봇청소기\Debug\로봇청소기.pdb

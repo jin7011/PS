@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\나무자르기\Debug\나무자르기.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\이분탐색\나무자르기\Debug\나무자르기.pdb

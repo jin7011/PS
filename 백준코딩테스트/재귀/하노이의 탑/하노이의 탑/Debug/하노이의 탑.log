@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\재귀\하노이의 탑\하노이의 탑\소스.cpp(27,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.

@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법(dp)\전깃줄2\Debug\전깃줄2.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\동적할당법(dp)\전깃줄2\Debug\전깃줄2.pdb

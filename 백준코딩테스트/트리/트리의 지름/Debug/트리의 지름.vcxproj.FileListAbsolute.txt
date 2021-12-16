@@ -1,0 +1,2 @@
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\트리\트리의 지름\Debug\트리의 지름.exe
+C:\Users\fpdlq\Desktop\c언어\백준코딩테스트\트리\트리의 지름\Debug\트리의 지름.pdb

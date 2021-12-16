@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\브루탈포스\덩치\덩치\소스.cpp(29,44): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\브루탈포스\덩치\덩치\소스.cpp(29,44): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  덩치.vcxproj -> C:\Users\AA\Desktop\나의 문제들\백준코딩테스트\브루탈포스\덩치\Debug\덩치.exe
