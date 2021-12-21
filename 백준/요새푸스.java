@@ -3,6 +3,7 @@ package πÈ¡ÿ;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -10,9 +11,16 @@ import java.util.StringTokenizer;
 public class ø‰ªı«™Ω∫ {
 
 	static int n, k;
-	static Queue<Integer> que = new
-		LinkedList<>();
-	static StringBuilder str = new StringBuilder();
+	static ArrayList<Integer> res = new ArrayList<>();
+	static Queue<Integer> que = new LinkedList<>();
+
+	public static int pop_stack() {
+		for (int x = 0; x < k - 1; x++) {
+			int p = que.poll();
+			que.add(p);
+		}
+		return que.poll();
+	}
 
 	public static void main(String[] args) throws IOException {
 
@@ -26,27 +34,17 @@ public class ø‰ªı«™Ω∫ {
 			que.add(x);
 		}
 
-		int cnt = 0;
+		System.out.print('<');
 
-		while (que.size() != 1) {
-
-			cnt++;
-			
-			if(cnt == k) {
-				str.append(que.poll()+", ");
-				cnt = 0;
-			}else {
-				que.add(que.poll());
-			}
-			
-
+		while (!que.isEmpty()) {
+			int ans = pop_stack();
+			if (!que.isEmpty())
+				System.out.print(ans + ", ");
+			else
+				System.out.print(ans);
 		}
-		
-		str.append(que.poll());
-		System.out.print("<");
-		
-		System.out.print(str);
-		
-		System.out.print(">");
+
+		System.out.print('>');
+
 	}
 }
