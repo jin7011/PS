@@ -11,66 +11,42 @@ import java.util.StringTokenizer;
 
 public class 후위표기식2 {
 
-	static double res;
 	static int n;
-	static String str = "", func = "";
 	static int[] arr = new int[26];
+	static String str;
 	static Stack<Double> stk = new Stack<>();
-
-	static void cal(double num2, double num1, char c) {
-
-		double sum = 0;
-
-		switch (c) {
-		case '+':
-			sum = num1 + num2;
-			stk.add(sum);
-			break;
-
-		case '-':
-			sum = num1 - num2;
-			stk.add(sum);
-			break;
-
-		case '/':
-			sum = num1 / num2;
-			stk.add(sum);
-			break;
-
-		case '*':
-			sum = num1 * num2;
-			stk.add(sum);
-			break;
-
-		default:
-			throw new IllegalArgumentException("Unexpected value: " + c);
-		}
-
-	}
 
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine());
 
-		n = Integer.parseInt(st.nextToken());
+		n = Integer.parseInt(br.readLine());
 		str = br.readLine();
-
-		for (int x = 0; x < n; x++) {
+		
+		for(int x=0; x<n; x++) {
 			arr[x] = Integer.parseInt(br.readLine());
 		}
-
-		for (int x = 0; x < str.length(); x++) {
-			if (Character.isAlphabetic(str.charAt(x))) {
-				stk.add((double)arr[str.charAt(x) - 65]);
-			} else {
-				cal(stk.pop(), stk.pop(), str.charAt(x));
+		
+		for(int x=0; x<str.length();x++) {
+			char c = str.charAt(x);
+			
+			if(Character.isAlphabetic(c)) {
+				stk.add((double)arr[c-65]);
+			}else {
+				double x2 = stk.pop();
+				double x1 = stk.pop();
+				
+				if(c == '+')
+					stk.add(x1+x2);
+				else if(c == '-')
+					stk.add(x1-x2);
+				else if(c == '*')
+					stk.add(x1*x2);
+				else
+					stk.add(x1/x2);
 			}
-
 		}
-
-		System.out.printf("%.2f", stk.pop());
-
+		System.out.printf("%.2f",stk.pop());
 	}
 
 }
